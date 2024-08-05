@@ -33,7 +33,7 @@
 
 ### 🔝 Top Contributed Repo
 
-<div style="text-align: center;" >
+<div align="center" style="text-align: center;" >
 
 ![](https://github-contributor-stats.vercel.app/api?username=Osama-kn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
