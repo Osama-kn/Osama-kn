@@ -37,10 +37,3 @@
     <img Width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Osama-kn&theme=dracula">
   </div>
 
-
-
-# 📊 Codeium Stats:
-[![autocomplete](https://codeium.com/badges/user/ucama/autocomplete)](https://codeium.com/profile/ucama)
-
-
-<img src="https://codeium.com/profile/ucama/card.png">
